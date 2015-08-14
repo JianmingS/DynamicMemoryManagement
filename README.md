@@ -34,7 +34,7 @@
 
     1. Windows8.1     
     
-    2.Visual Studio 2013    
+    2. Visual Studio 2013    
     
     3. MFC     
  
