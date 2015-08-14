@@ -1,0 +1,38 @@
+﻿生成启动时间为 2015/7/31 22:28:20。
+     1>项目“E:\JmingProjects\VS\DynamicMemoryManagement\DynamicMemoryManagement\DynamicMemoryManagement.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\DynamicMemoryManagement.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt DynamicMemoryManagementDlg.cpp Memory.cpp
+         Memory.cpp
+     1>e:\jmingprojects\vs\dynamicmemorymanagement\dynamicmemorymanagement\memory.cpp(70): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\jmingprojects\vs\dynamicmemorymanagement\dynamicmemorymanagement\memory.cpp(129): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\jmingprojects\vs\dynamicmemorymanagement\dynamicmemorymanagement\memory.cpp(159): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\jmingprojects\vs\dynamicmemorymanagement\dynamicmemorymanagement\memory.cpp(199): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\jmingprojects\vs\dynamicmemorymanagement\dynamicmemorymanagement\memory.cpp(210): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\jmingprojects\vs\dynamicmemorymanagement\dynamicmemorymanagement\memory.cpp(232): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\jmingprojects\vs\dynamicmemorymanagement\dynamicmemorymanagement\memory.cpp(281): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\jmingprojects\vs\dynamicmemorymanagement\dynamicmemorymanagement\memory.cpp(306): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\jmingprojects\vs\dynamicmemorymanagement\dynamicmemorymanagement\memory.cpp(318): warning C4018: “<”: 有符号/无符号不匹配
+         DynamicMemoryManagementDlg.cpp
+     1>e:\jmingprojects\vs\dynamicmemorymanagement\dynamicmemorymanagement\dynamicmemorymanagementdlg.cpp(311): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\jmingprojects\vs\dynamicmemorymanagement\dynamicmemorymanagement\dynamicmemorymanagementdlg.cpp(345): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\jmingprojects\vs\dynamicmemorymanagement\dynamicmemorymanagement\dynamicmemorymanagementdlg.cpp(394): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\jmingprojects\vs\dynamicmemorymanagement\dynamicmemorymanagement\dynamicmemorymanagementdlg.cpp(507): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\jmingprojects\vs\dynamicmemorymanagement\dynamicmemorymanagement\dynamicmemorymanagementdlg.cpp(531): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\jmingprojects\vs\dynamicmemorymanagement\dynamicmemorymanagement\dynamicmemorymanagementdlg.cpp(549): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>e:\jmingprojects\vs\dynamicmemorymanagement\dynamicmemorymanagement\dynamicmemorymanagementdlg.cpp(560): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\jmingprojects\vs\dynamicmemorymanagement\dynamicmemorymanagement\dynamicmemorymanagementdlg.cpp(679): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\jmingprojects\vs\dynamicmemorymanagement\dynamicmemorymanagement\dynamicmemorymanagementdlg.cpp(688): warning C4018: “<”: 有符号/无符号不匹配
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\JmingProjects\VS\DynamicMemoryManagement\Debug\DynamicMemoryManagement.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\JmingProjects\VS\DynamicMemoryManagement\Debug\DynamicMemoryManagement.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\JmingProjects\VS\DynamicMemoryManagement\Debug\DynamicMemoryManagement.lib" /MACHINE:X86 Debug\DynamicMemoryManagement.res
+         Debug\DynamicMemoryManagement.obj
+         Debug\DynamicMemoryManagementDlg.obj
+         Debug\Memory.obj
+         Debug\Process.obj
+         Debug\stdafx.obj
+         DynamicMemoryManagement.vcxproj -> E:\JmingProjects\VS\DynamicMemoryManagement\Debug\DynamicMemoryManagement.exe
+     1>已完成生成项目“E:\JmingProjects\VS\DynamicMemoryManagement\DynamicMemoryManagement\DynamicMemoryManagement.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.98
